@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "The_Great_Wall_of_China_at_Jinshanling-edit@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "The_Great_Wall_of_China_at_Jinshanling-edit@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
